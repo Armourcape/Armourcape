@@ -1,0 +1,32 @@
+* {
+    padding: 0;
+    border: 0;
+    box-sizing: border-box;
+    background-color: khaki;
+}
+h1 {
+    text-decoration: underline;
+    text-align: center;
+    color: darkgoldenrod;
+    
+}
+header {
+    text-align: center;
+}
+.img {
+    height: 300px;
+}
+.info {
+    color: brown;
+    text-align: left;
+    padding-left: 20px;
+}
+.box {
+    border: 3px brown solid;
+    color: darkblue;
+    margin-left: 20px;
+}
+.text {
+    list-style-type:unset;
+    
+}
