@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Armourcape
-- 👀 I’m interested in enhancing user interfaces via speial plugins, hackathons, stopping piracy breaches
-- 🌱 I’m currently learning svelte ; rust
-- 💞️ I’m looking to collaborate on plugin projects and hackathons
+- 👀 I’m interested in advancing ai research and making fun ai project
+- 💞️ I’m looking to collaborate on ai research, projects and hackathons
 - 📫 How to reach me---------
 email:- pveekshithrao@gmail.com
 
