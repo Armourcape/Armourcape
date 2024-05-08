@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Armourcape
+- 👋 Hi, I’m Veekshith Rao (@Armourcape)
 - 👀 I’m interested in advancing ai research and making fun ai project
 - 💞️ I’m looking to collaborate on ai research, projects and hackathons
 - 📫 How to reach me---------
